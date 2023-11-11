@@ -15,3 +15,7 @@ Admin Interface
 
 Customer Interface
 ![Screenshot (977)](https://github.com/ananta224/Electric_Billing_System/assets/98830340/b211d5d6-a426-4bc0-9fe6-8531b9412255)
+
+![Screenshot (978)](https://github.com/ananta224/Electric_Billing_System/assets/98830340/b8569ba8-5b59-4eb1-8ff6-3736e0b688e1)
+
+![Screenshot (979)](https://github.com/ananta224/Electric_Billing_System/assets/98830340/6c4fe03c-7506-4656-b1d3-877dd8503251)
